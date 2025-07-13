@@ -44,7 +44,8 @@ The model was trained and tested on a dataset of real-world **tweets**, includin
 
 ## 📊 App Overview
 
-![UI Screenshot](./screenshot.png) <!-- Add if available -->
+![WhatsApp Image 2025-04-21 at 10 17 36 PM](https://github.com/user-attachments/assets/e58813fb-b9de-46fd-8a7f-d328c8d56417)
+
 
 ### 🧠 Functionalities
 
@@ -76,6 +77,9 @@ The model was trained and tested on a dataset of real-world **tweets**, includin
 * Implemented confidence score with a **gauge chart**
 * Styled UI with CSS and background images
 
+  ![WhatsApp Image 2025-04-21 at 10 30 23 PM](https://github.com/user-attachments/assets/411a766a-fa62-4e1b-8ac2-1bc5bbc7d7d6)
+
+
 ### 3. **Deployment-Ready Setup**
 
 * Prepared `requirements.txt` for easy environment setup
@@ -106,5 +110,4 @@ A perfect fit for:
 
 ---
 
-## 📁 Project Files
 
